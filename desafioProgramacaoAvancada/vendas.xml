@@ -1,0 +1,70 @@
+<vendas>
+  <venda>
+    <codigo>1</codigo>
+    <data>2016-08-30 03:22:46.393 UTC</data>
+    <itensVenda>
+      <itens>
+        <quantidade>2</quantidade>
+        <produto>
+          <codigo>3</codigo>
+          <nome>produto3</nome>
+          <desc>ProdutoDesc3</desc>
+          <precoVenda>6.0</precoVenda>
+          <precoCusto>3.0</precoCusto>
+        </produto>
+        <subTotal>12.0</subTotal>
+      </itens>
+    </itensVenda>
+    <funcionario>
+      <nome>funcionario1</nome>
+      <codigo>1</codigo>
+      <salario>1112.0</salario>
+      <login>funcionario1</login>
+      <senha>e6b78617985d7fb806699b4a966e46dd</senha>
+      <acumuladoLucroVendas>3.0</acumuladoLucroVendas>
+      <quantidadeVendas>2</quantidadeVendas>
+    </funcionario>
+    <cliente>
+      <nome>Cliente2</nome>
+      <codigo>2</codigo>
+      <dataNascimento>2016-08-30 03:19:51.85 UTC</dataNascimento>
+      <cpf>417.475.580-95</cpf>
+    </cliente>
+    <valorTotal>12.0</valorTotal>
+    <tipoCartao>BOLETO</tipoCartao>
+  </venda>
+  <venda>
+    <codigo>2</codigo>
+    <data>2016-08-30 03:23:36.233 UTC</data>
+    <itensVenda>
+      <itens>
+        <quantidade>3</quantidade>
+        <produto>
+          <codigo>3</codigo>
+          <nome>produto3</nome>
+          <desc>ProdutoDesc3</desc>
+          <precoVenda>6.0</precoVenda>
+          <precoCusto>3.0</precoCusto>
+        </produto>
+        <subTotal>18.0</subTotal>
+      </itens>
+    </itensVenda>
+    <funcionario>
+      <nome>funcionario1</nome>
+      <codigo>1</codigo>
+      <salario>1112.0</salario>
+      <login>funcionario1</login>
+      <senha>e6b78617985d7fb806699b4a966e46dd</senha>
+      <acumuladoLucroVendas>9.0</acumuladoLucroVendas>
+      <quantidadeVendas>7</quantidadeVendas>
+    </funcionario>
+    <cliente>
+      <nome>Cliente2</nome>
+      <codigo>2</codigo>
+      <dataNascimento>2016-08-30 03:19:51.85 UTC</dataNascimento>
+      <cpf>417.475.580-95</cpf>
+    </cliente>
+    <valorTotal>18.0</valorTotal>
+    <tipoCartao>MASTER</tipoCartao>
+  </venda>
+</vendas>

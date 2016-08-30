@@ -1,0 +1,62 @@
+<clientes>
+  <cliente>
+    <nome>Cliente1</nome>
+    <codigo>1</codigo>
+    <dataNascimento>2016-08-30 03:19:51.77 UTC</dataNascimento>
+    <cpf>422.141.335-26</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente2</nome>
+    <codigo>2</codigo>
+    <dataNascimento>2016-08-30 03:19:51.85 UTC</dataNascimento>
+    <cpf>417.475.580-95</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente3</nome>
+    <codigo>3</codigo>
+    <dataNascimento>2016-08-30 03:19:51.92 UTC</dataNascimento>
+    <cpf>173.506.881-05</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente4</nome>
+    <codigo>4</codigo>
+    <dataNascimento>2016-08-30 03:19:51.108 UTC</dataNascimento>
+    <cpf>728.431.736-12</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente5</nome>
+    <codigo>5</codigo>
+    <dataNascimento>2016-08-30 03:19:51.114 UTC</dataNascimento>
+    <cpf>402.740.288-08</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente6</nome>
+    <codigo>6</codigo>
+    <dataNascimento>2016-08-30 03:19:51.118 UTC</dataNascimento>
+    <cpf>970.248.820-69</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente7</nome>
+    <codigo>7</codigo>
+    <dataNascimento>2016-08-30 03:19:51.123 UTC</dataNascimento>
+    <cpf>645.438.716-00</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente8</nome>
+    <codigo>8</codigo>
+    <dataNascimento>2016-08-30 03:19:51.127 UTC</dataNascimento>
+    <cpf>800.795.984-04</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente9</nome>
+    <codigo>9</codigo>
+    <dataNascimento>2016-08-30 03:19:51.134 UTC</dataNascimento>
+    <cpf>619.858.450-08</cpf>
+  </cliente>
+  <cliente>
+    <nome>Cliente10</nome>
+    <codigo>10</codigo>
+    <dataNascimento>2016-08-30 03:19:51.141 UTC</dataNascimento>
+    <cpf>130.018.702-65</cpf>
+  </cliente>
+</clientes>
